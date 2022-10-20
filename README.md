@@ -11,6 +11,9 @@
 </div>
 <a href="https://www.linkedin.com/in/itamar-de-souza-b994411b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  <a href="https://bertiitamar.github.io/"target="_blank">
+    <img src="https://img.shields.io/badge/-Website-%23071a2c" alt="Gmail">
+  </a>
 <br>
 
 ## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
